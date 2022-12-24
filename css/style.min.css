@@ -32,7 +32,7 @@ html{overflow:hidden}body{background:url("../img/star.jpg") no-repeat center cen
 
  @media (max-width: 600px) {
      #audio {
-        margin: 25px auto;
+        margin: 15px auto;
      }
  }
 
